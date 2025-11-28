@@ -2,7 +2,7 @@
 
 ## Contract Address
 **Address:** `0x306FD05a3a0c212E9BFfeaF1ecBCc7C4fc6bB574`  
-**Explorer Link:** https://coston2-explorer.flare.network/tx/0x306FD05a3a0c212E9BFfeaF1ecBCc7C4fc6bB574
+**Explorer Link:**https://coston2-explorer.flare.network/address/0x306FD05a3a0c212E9BFfeaF1ecBCc7C4fc6bB574
 
 ---
 
