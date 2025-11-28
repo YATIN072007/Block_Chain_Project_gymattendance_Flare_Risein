@@ -1,8 +1,8 @@
 # Gym Attendance Smart Contract DApp
 
 ## Contract Address
-**Address:** `0x5f928b58f49cf64696da373f94e7886a12d551dcad605b2d9c0b6a33cff806c0`  
-**Explorer Link:** https://coston2-explorer.flare.network/tx/0x5f928b58f49cf64696da373f94e7886a12d551dcad605b2d9c0b6a33cff806c0
+**Address:** `0x306FD05a3a0c212E9BFfeaF1ecBCc7C4fc6bB574`  
+**Explorer Link:** https://coston2-explorer.flare.network/tx/0x306FD05a3a0c212E9BFfeaF1ecBCc7C4fc6bB574
 
 ---
 
