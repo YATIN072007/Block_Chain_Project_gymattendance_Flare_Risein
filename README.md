@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gym Attendance Smart Contract DApp
 
 ## Contract Address
@@ -16,47 +17,53 @@ This project eliminates the need for traditional centralized attendance systems 
 
 ## Features
 
-- Wallet-based authentication using Web3
-- One-click gym check-in using smart contracts
-- On-chain timestamped attendance records
-- Immutable and transparent storage
-- Real-time transaction status tracking
-- Error handling and loading state management
-- Secure interaction using viem and wagmi
+# Gym Attendance Smart Contract
+
+A beginner-friendly Solidity smart contract and DApp that records gym attendance on-chain. Each check-in stores the user's wallet
+address and a timestamp, creating a verifiable, tamper-proof attendance record.
+
+## Contract Address
+**Address:** `NOT_SET`
+**Explorer Link:** Not available
+
+## Project description
+This project shows how simple smart contracts + a frontend can replace centralized attendance systems by providing:
+
+- Immutable attendance records on-chain
+- Wallet-based authentication
+- Transparent verification of check-ins
+- Easy frontend integration using viem and wagmi
+
+## Features
+
+- One-call `checkIn()` function that stores wallet address and timestamp
+- Emits events for easy indexing/notifications
+- Public queries to fetch attendance history
+- Minimal, beginner-friendly Solidity code (useful for learning)
+- Frontend + wallet integration examples included
+
+## Use-cases and benefits
+
+- Gyms that want verifiable attendance systems
+- Fitness challenges and rewards programs
+- Educational demos for Web3 development
+- No central server required; users retain control of their proof-of-attendance
+
+## Deployed contract
+Deployed Smart Contract Link: **XXX** (replace with actual explorer URL once deployed)
+
+## Smart contract code
+See `contract/contract.sol` and `contracts/gymattendance.sol` for on-chain logic.
 
 ---
 
-## How It Solves
+If you'd like, I can:
 
-Traditional gym attendance systems rely on centralized databases that are:
+- push the combined repository to GitHub (already in progress),
+- create a GitHub Actions workflow to auto-deploy the contract or build the site, or
+- remove duplicate contract files and standardize the paths.
 
-- Vulnerable to data tampering
-- Prone to manipulation
-- Lacking transparency
-- Dependent on trust in the system operator
-
-This project solves these problems by leveraging blockchain technology to:
-
-- Store attendance in a decentralized, immutable way
-- Eliminate the possibility of record manipulation
-- Provide transparent verification of attendance
-- Allow users to prove their consistency without relying on a third party
-
-### Use Cases
-
-- Gyms that want verifiable member attendance
-- Fitness challenges based on real check-in data
-- Web3-based fitness reward systems
-- DAO or community-driven wellness programs
-
-### Benefits
-
-- Trustless system
-- No central authority required
-- Full transparency
-- User-owned identity and activity proof
-- Future-ready integration with NFTs and rewards
-
+```solidity
+// paste your smart contract code here or look in contract/contract.sol
+```
 ---
-
-This project demonstrates a practical real-world use of blockchain in the fitness and wellness domain.
